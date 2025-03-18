@@ -1,5 +1,4 @@
 //your code here
-
 function swapTheme() {
   const appDiv = document.getElementById("app");
   const swapButton = document.getElementById("swap");
